@@ -6,6 +6,7 @@ For this assignment, your task is to build a React calculator application that p
 - Clone this repository
 - `npm install`
 - `npm test` to run the tests
+- `npm run-script test:e2e` to run cypress tests
 - `npm start`
 
 Then start by enabling the calculator application to performs multiplication.
